@@ -1,5 +1,3 @@
-# chat-with-socketio
-
 # Socket.IO Chat App
 
 A real-time multi-user chat application built with Node.js, Express, and Socket.IO.
